@@ -99,7 +99,7 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 Install this project with:
 
 - Open your command prompt or terminal and run.
--  git clone https://github.com/MariamOsman11/-Portfolio-.git
+-  git clone https://github.com/mar4444
 cd -Portfolio-
 
 ### Usage
@@ -127,9 +127,9 @@ To run tests, run the following command:
 
 👤 **Author1**
 
-- GitHub: https://github.com/MariamOsman
-- Twitter: https://twitter.com/@Mariannaloveee
-- LinkedIn: https://http//www.linkedin.com/in/marian-isman-a57b75226
+- GitHub: https://github.com/mar4444
+- Twitter: https://[twitter.com/@musirikare_](https://twitter.com/Musirikare_)
+- LinkedIn: [https://http//www.linkedin.com/in/martin](https://www.linkedin.com/in/imanirumva-martin-b70309266/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +142,6 @@ To run tests, run the following command:
 - [ ] **[Project: Application deploy]**
 - [ ] **[Project: Evaluate accessibility (pair programming)]**
 - [ ] **[Project: Mobile menu (pair programming)]**
-- [ ] **[Project: Details modal (pair programming)]**
 - [ ] **[Project: Validate contact form (pair programming)]**
 - [ ] **[Project: Preserve data in the browser (pair programming)]**
 
