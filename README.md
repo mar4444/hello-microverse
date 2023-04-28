@@ -154,4 +154,4 @@ I'm grateful to microverse for giving me every opportunity to grow into my full 
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
