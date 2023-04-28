@@ -125,9 +125,9 @@ If you think that change is necessary - open a Pull Request in this repository a
 
 👤 **Martin**
 
-- GitHub: [mar4444]https://github.com/mar4444
-- Twitter: [Musirikare_]https://twitter.com/Musirikare_
-- LinkedIn: [martin]https://www.linkedin.com/in/imanirumva-martin-b70309266/
+- GitHub: [mar4444](https://github.com/mar4444)
+- Twitter: [Musirikare_](https://twitter.com/Musirikare_)
+- LinkedIn: [martin](https://www.linkedin.com/in/imanirumva-martin-b70309266/)
 ## 🤝 Contributing <a name="contributing"></a>
 
 ## 🔭 Future Features <a name="future-features"></a>
