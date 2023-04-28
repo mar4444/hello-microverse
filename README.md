@@ -132,10 +132,9 @@ If you think that change is necessary - open a Pull Request in this repository a
 
 👤 **Author**
 
-- GitHub: (https://github.com/MariamOsman)
-- Twitter: (https://twitter.com/@Mariannaloveee)
-- LinkedIn: (https://http://www.linkedin.com/in/marian-isman-a57b75226)
-
+- GitHub: https://github.com/mar4444
+- Twitter: https://twitter.com/Musirikare_
+- LinkedIn: https://www.linkedin.com/in/imanirumva-martin-b70309266/
 ## 🤝 Contributing <a name="contributing"></a>
 
 <!-- FUTURE FEATURES -->
